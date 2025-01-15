@@ -1,0 +1,22 @@
+Resources:
+Video 2.6: Cubic Bezier Animations using Timing Curves
+> https://developer.apple.com/documentation/swiftui/animation/timingcurve(_:_:_:_:duration:)
+> https://cubic-bezier.com/#.17,.67,.83,.67
+
+Video 2.7	:Custom Ease Animations
+https://easings.net/
+
+Video 8.7:Customizing the Colors
+https://www.b3multimedia.ie/beautiful-color-gradients-for-your-next-design-project/
+
+Video 11.1:"Big Mistake" Animation Challenge
+https://www.youtube.com/watch?v=Jgw-_hlFQk4
+
+Video 12.1:Introduction
+https://www.youtube.com/watch?v=_QflGAW5kuo
+
+Video 15.1:Presenting the Challenge
+https://www.youtube.com/watch?v=O6CgPB1CIr0
+
+Video 15.3:Downloading and Testing the Leaf Icon
+https://www.figma.com/community/file/952131925958384905
